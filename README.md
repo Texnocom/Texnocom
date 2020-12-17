@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome to My Profile! 👋 
+![https://t.me/samil](https://img.shields.io/badge/telegram-aryanvikash-blue)
+ ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Texnocom/)
 
-<!--
-**Texnocom/Texnocom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Q | A
+--- | --- 
+**My Machine**  | `Acer aspire 5s`
+**Editor**  | `Visual Studio Code`
+**Platforms I develop for** | `Mobile, Web, CLI`
+**Languages I know**  | `C , JS, Python , Kotlin ,Dart`
+**Languages I learning** | `Go, Rust , C++`
+
+
+
+ ‏‏‎ ‎| ‏‏‎ ‎
+ --- | ---
+![Texnocom's github stats](https://github-readme-stats.vercel.app/api?username=Texnocom&show_icons=true&theme=radical&include_all_commits=true) | ![Texnocom's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Texnocom&theme=radical&layout=compact)
+
