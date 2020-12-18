@@ -1,5 +1,5 @@
 # Welcome to My Profile! 👋 
-![https://t.me/samil](https://img.shields.io/badge/telegram-aryanvikash-blue)
+![https://t.me/samil](https://img.shields.io/badge/telegram-samil-blue)
  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Texnocom/)
 
 
