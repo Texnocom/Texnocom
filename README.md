@@ -1,4 +1,7 @@
 # Welcome to My Profile! 👋 
+
+<img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "center">
+
 ![https://t.me/samil](https://img.shields.io/badge/telegram-Texnocom-black)
  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Texnocom/)
 
