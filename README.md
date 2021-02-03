@@ -29,7 +29,7 @@
 <img src="https://avatars0.githubusercontent.com/u/39539223?s=460&u=f213f82c027815991ef5ad42ae0fdb49e80e22c3&v=4" alt="brave browser" width="25" height="25" />
 </p>
 
-<img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "center">
-
 
 [![AlenPaulVarghese github stats](https://github-readme-stats.vercel.app/api?username=alenpaul2001&count_private=true&show_icons=true&theme=radical)](https://github.com/alenpaul2001)
+
+<img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "center">
