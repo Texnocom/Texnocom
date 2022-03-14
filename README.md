@@ -3,7 +3,7 @@
 <p>Hazırda programlaşdırma üzrə öyrənirəm <strong><a href="https://samilhuseynov.com/">@Samilhuseynov</a></strong>. Bəzi yan layihələrdə işləyirəm, bir neçə yeni şeylər öyrənirəm.</p>
 <p><a href="https://t.me/Samil"><img src="https://img.shields.io/badge/-@Samil-0290F7?style=flat-square&amp;labelColor=FFFFFF&amp;logo=Telegram&amp;link=https://t.me/samil" alt="Telegram Badge"></a> <a href="https://dev.to/samil"><img src="https://img.shields.io/badge/-@samil-FFFFFF?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/texnocom" alt="Samil"></a>  <a href="mailto:samilhuseynovv@gmail.com?subject=Hello%20There&body=Lorem%20Ipsum%20is%20great%20!!"><img src="https://img.shields.io/badge/-@samilhuseynovv@gmail.com-D0005E?style=flat-square&amp;labelColor=FFFFFF&amp;logo=Gmail&amp;link=mailto:samilhuseynovv@gmail.com" alt="Gmail Badge"></a></p>
 <img align="right" width=480 height=270 src="src/gilfoyle.gif" />
-<h2>⚡️ Bir neçə sürətli fakt</h2>
+<h2><img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 40 align = "center">   Bir neçə sürətli fakt  <img src="./src/Kenpurple.gif" width="30px"> </h2> 
 <ul>
 <li>🔭Hazırda <strong> PDF Bot üzərində işləyirəm.</strong></li>
 <li>🌱 Python </strong> da async </strong>, <strong> golang </strong> haqqında məlumat.</li>
@@ -33,4 +33,4 @@
 
 [![AlenPaulVarghese github stats](https://github-readme-stats.vercel.app/api?username=alenpaul2001&count_private=true&show_icons=true&theme=radical)](https://github.com/alenpaul2001)
 
-<img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "center">
+
